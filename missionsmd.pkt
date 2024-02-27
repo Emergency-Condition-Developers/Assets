@@ -1,0 +1,3306 @@
+[MultiMaps]
+
+; 2 Player Maps
+1=XMP29U2
+2=XMP21S2
+3=BldFeud
+4=XDeadman
+5=DunePatr
+6=XDustbowl
+7=XMP14T2
+8=XHailMary
+9=XXmas
+10=HidVally
+11=HillBtwn
+12=XMP02T2
+13=Fight
+14=XMP08T2
+15=PcOfDune
+16=XBarrel
+17=XMP31S2
+18=XGrinder
+19=XNewHghts
+20=XMP11T2
+21=SaharaMi
+22=XEB3
+23=2Peaks
+24=XMP06T2
+
+; 3 Player Maps
+25=XBreak
+26=XMP09T3
+27=XMP18S3
+28=XKiller
+29=XYuriPlot
+
+; 4 Player Maps
+30=XMP03T4
+31=XArena
+32=XDisaster
+33=XCarville
+34=XEB1
+35=XEB4
+36=XMP34U4
+37=XMP10S4
+38=DoubleTrouble
+39=downtown
+40=DryHeat
+
+;41=Escalation
+42=FaceDown
+43=FourCorners
+44=Frstbite
+45=XMP19T4
+46=GroundZe
+47=XMP23T4
+48=XHills
+49=XMP05T4
+50=XInvasion
+51=IsleOfOades
+52=XMP12S4
+53=XLostlake
+54=Manhatta
+55=XMP13S4
+
+;56=MoonBase
+57=XEB5
+58=XNoRest
+59=NoWimps
+60=XOceansid
+61=OffenseDefense
+62=OttersRevenge
+63=XPacific
+64=XMP33U4
+
+;65=ReturnToForestFires
+66=XRockets
+67=XRound
+68=RushHr
+69=XShrapnel
+70=XEB2
+
+;71=XSkyscrpr
+72=XMP15S4
+73=XMP16S4
+74=XMP01T4
+
+;75=SouthPoleSlaughter
+76=XTanyas
+77=XTOWER
+78=XTsunami
+79=XValley
+
+; 6 Player Maps
+80=Arena33Forever
+81=XBayOPigs
+82=XMP26S6
+83=BridgeGap
+84=XMP25T6
+85=EastVsBest
+86=XKaliforn
+87=XMP17T6
+88=MonumentValley
+89=SedonaPass
+90=XMP30S6
+91=XGoldSt
+92=TourOfEgypt
+93=XMP20T6
+
+; 8 Player Maps
+94=XDeath
+
+;95=DinoWars
+;96=DinoZoo
+97=XMP32S8
+98=XMP27T8
+99=XPowdrKeg
+100=Xroulette
+101=TrailerPark
+
+; Coop Maps
+102=C1A01MD
+103=C1A02MD
+104=C1A03MD
+105=C2S01MD
+106=C2S02MD
+107=C2S03MD
+108=C3Y01MD
+109=C3Y02MD
+110=C3Y03MD
+111=C4W01MD
+
+; Duel Maps
+112=XMP09DU
+113=XMP24DU
+114=XMP18DU
+115=XMP05DU
+116=XMP13DU
+117=XMP15DU
+118=XMP01DU
+119=XMP25DU
+121=XMP17DU
+122=XMP27DU
+123=XMP32DU
+
+; Megawealth Maps
+124=XDustbowlmw
+125=XMP14MW
+126=XMP08MW
+127=SaharaMimw
+128=XMP29MW
+129=XMP06MW
+130=XEB1mw
+131=DeathValleyGirlmw
+132=DryHeatmw
+133=FourCornersmw
+134=Groundzemw
+135=XMP23MW
+136=XMP05MW
+137=XMP13MW
+138=XPacificmw
+139=XMP15MW
+140=XMP16MW
+141=XTowermw
+142=XValleymw
+143=XMP25MW
+144=XMP17MW
+145=MonumentValleymw
+146=SedonaPassmw
+147=XMP30MW
+148=XMP27MW
+149=XMP22MW
+150=XMP32MW
+
+; Team Alliance Maps
+151=TopOTheHill
+152=AustinTX
+153=DeathValleyGirl
+154=XSeaofIso
+155=XAMAZON01
+156=TurfWar
+157=MountMoras
+158=XPotomac
+159=XBermuda
+160=TripleCrossed
+161=XMP22S8
+162=NearOreF
+163=XTerritor
+
+; Testing Only Map
+;164=Demomap
+;165=TestersMap
+; Tournament Maps
+166=XTN02s4
+167=XTN01T2
+168=XTN04T2
+
+;169=XTN03T8
+170=XTN02MW
+171=XTN01MW
+172=XTN04MW
+180=Unoffical180
+181=Unoffical181
+182=Unoffical182
+183=Unoffical183
+184=Unoffical184
+185=Unoffical185
+186=Unoffical186
+187=Unoffical187
+188=Unoffical188
+189=Unoffical189
+190=Unoffical190
+191=Unoffical191
+192=Unoffical192
+193=Unoffical193
+194=Unoffical194
+195=Unoffical195
+196=Unoffical196
+197=Unoffical197
+198=Unoffical198
+199=Unoffical199
+200=Unoffical200
+201=Unoffical201
+202=Unoffical202
+203=Unoffical203
+204=Unoffical204
+205=Unoffical205
+206=Unoffical206
+207=Unoffical207
+208=Unoffical208
+209=Unoffical209
+210=Unoffical210
+211=Unoffical211
+212=Unoffical212
+213=Unoffical213
+214=Unoffical214
+215=Unoffical215
+216=Unoffical216
+217=Unoffical217
+218=Unoffical218
+219=Unoffical219
+220=Unoffical220
+221=Unoffical221
+222=Unoffical222
+223=Unoffical223
+224=Unoffical224
+225=Unoffical225
+226=Unoffical226
+227=Unoffical227
+228=Unoffical228
+229=Unoffical229
+230=Unoffical230
+231=Unoffical231
+232=Unoffical232
+233=Unoffical233
+234=Unoffical234
+235=Unoffical235
+236=Unoffical236
+237=Unoffical237
+238=Unoffical238
+239=Unoffical239
+240=Unoffical240
+241=Unoffical241
+242=Unoffical242
+243=Unoffical243
+244=Unoffical244
+245=Unoffical245
+246=Unoffical246
+247=Unoffical247
+248=Unoffical248
+249=Unoffical249
+250=Unoffical250
+251=Unoffical251
+252=Unoffical252
+253=Unoffical253
+254=Unoffical254
+255=Unoffical255
+256=Unoffical256
+257=Unoffical257
+258=Unoffical258
+259=Unoffical259
+260=Unoffical260
+261=Unoffical261
+262=Unoffical262
+263=Unoffical263
+264=Unoffical264
+265=Unoffical265
+266=Unoffical266
+267=Unoffical267
+268=Unoffical268
+269=Unoffical269
+270=Unoffical270
+271=Unoffical271
+272=Unoffical272
+273=Unoffical273
+274=Unoffical274
+275=Unoffical275
+276=Unoffical276
+277=Unoffical277
+278=Unoffical278
+279=Unoffical279
+280=Unoffical280
+281=Unoffical281
+282=Unoffical282
+283=Unoffical283
+284=Unoffical284
+285=Unoffical285
+286=Unoffical286
+287=Unoffical287
+288=Unoffical288
+289=Unoffical289
+290=Unoffical290
+291=Unoffical291
+292=Unoffical292
+293=Unoffical293
+294=Unoffical294
+295=Unoffical295
+296=Unoffical296
+297=Unoffical297
+298=Unoffical298
+299=Unoffical299
+300=Unoffical300
+301=Unoffical301
+302=Unoffical302
+303=Unoffical303
+304=Unoffical304
+305=Unoffical305
+306=Unoffical306
+307=Unoffical307
+308=Unoffical308
+309=Unoffical309
+310=Unoffical310
+311=Unoffical311
+312=Unoffical312
+313=Unoffical313
+314=Unoffical314
+315=Unoffical315
+316=Unoffical316
+317=Unoffical317
+318=Unoffical318
+319=Unoffical319
+320=Unoffical320
+321=Unoffical321
+322=Unoffical322
+323=Unoffical323
+324=Unoffical324
+325=Unoffical325
+326=Unoffical326
+327=Unoffical327
+328=Unoffical328
+329=Unoffical329
+330=Unoffical330
+331=Unoffical331
+332=Unoffical332
+333=Unoffical333
+334=Unoffical334
+335=Unoffical335
+336=Unoffical336
+337=Unoffical337
+338=Unoffical338
+339=Unoffical339
+340=Unoffical340
+341=Unoffical341
+342=Unoffical342
+343=Unoffical343
+344=Unoffical344
+345=Unoffical345
+346=Unoffical346
+347=Unoffical347
+348=Unoffical348
+349=Unoffical349
+350=Unoffical350
+351=Unoffical351
+352=Unoffical352
+353=Unoffical353
+354=Unoffical354
+355=Unoffical355
+356=Unoffical356
+357=Unoffical357
+358=Unoffical358
+359=Unoffical359
+360=Unoffical360
+361=Unoffical361
+362=Unoffical362
+363=Unoffical363
+364=Unoffical364
+365=Unoffical365
+366=Unoffical366
+367=Unoffical367
+368=Unoffical368
+369=Unoffical369
+370=Unoffical370
+371=Unoffical371
+372=Unoffical372
+373=Unoffical373
+374=Unoffical374
+375=Unoffical375
+376=Unoffical376
+377=Unoffical377
+378=Unoffical378
+379=Unoffical379
+380=Unoffical380
+381=Unoffical381
+382=Unoffical382
+383=Unoffical383
+384=Unoffical384
+385=Unoffical385
+386=Unoffical386
+387=Unoffical387
+388=Unoffical388
+389=Unoffical389
+390=Unoffical390
+391=Unoffical391
+392=Unoffical392
+393=Unoffical393
+394=Unoffical394
+395=Unoffical395
+396=Unoffical396
+397=Unoffical397
+398=Unoffical398
+399=Unoffical399
+400=Unoffical400
+401=Unoffical401
+402=Unoffical402
+403=Unoffical403
+404=blitzkriegresistance
+
+;173=XTN03MW
+; To Be Sorted Maps
+; NOTE: Descriptions now take a string file label (ra2.str)
+;South Pacific
+[XMP01T4]
+Description=DESC:MP01DU
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+;Isle of War
+[XMP02T2]
+Description=DESC:MP02T2
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind
+
+;Anytown, Amerika
+[XMP03T4]
+Description=DESC:MP03T4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, teamgame
+
+;Heartland
+[XMP05T4]
+Description=DESC:MP05T4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=meatgrind, standard
+
+;Urban Rush
+[XMP06T2]
+Description=DESC:MP06T2
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind
+
+;Little Big Lake
+[XMP08T2]
+Description=DESC:MP08T2
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=meatgrind, standard
+
+;Canyon Fodder
+[XMP09T3]
+Description=DESC:MP09T3
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=meatgrind, standard
+
+;Depth Charge
+[XMP10S4]
+Description=DESC:MP10S4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=navalwar, nukewar
+
+;Pinch Point
+[XMP11T2]
+Description=DESC:MP11T2
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=meatgrind, standard
+
+;Lake Blitzen
+[XMP12S4]
+Description=DESC:MP12S4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind
+
+;Montana DMZ
+[XMP13S4]
+Description=DESC:MP13S4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind
+
+;El Dorado
+[XMP14T2]
+Description=DESC:MP14T2
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+;Snow Valley
+[XMP15S4]
+Description=DESC:MP15S4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind
+
+;Snowballs Chance
+[XMP16S4]
+Description=DESC:MP16S4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind
+
+;Malibu Cliffs
+[XMP17T6]
+Description=DESC:MP17T6
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard, meatgrind
+
+;Cold War
+[XMP18S3]
+Description=DESC:MP18S3
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+;Golden State Freeway
+[XMP19T4]
+Description=DESC:MP19T4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind
+
+;Wild Animal Park
+[XMP20T6]
+Description=DESC:MP20T6
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard, nukewar, navalwar
+
+;Alaskan Oil Spill
+[XMP21S2]
+Description=DESC:MP21S2
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=nukewar, navalwar
+
+;Arctic Circle
+[XMP22S8]
+Description=DESC:MP22S8
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=teamgame, airwar, nukewar, navalwar
+
+;Hammer and Sickle
+[XMP23T4]
+Description=DESC:MP07T4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, nukewar, navalwar
+
+;DEFCON 6
+[XMP25T6]
+Description=DESC:MP25T6
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard, meatgrind
+
+;Bering Strait
+[XMP26S6]
+Description=DESC:MP26S6
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard, nukewar, navalwar
+
+;A Path Beyond II
+[XMP27T8]
+Description=DESC:MP27T8
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard, meatgrind
+
+;The Alamo
+[XMP29U2]
+Description=DESC:MP29U2
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind
+
+;Siberian Wastes
+[XMP30S6]
+Description=DESC:MP30S6
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=nukewar, navalwar, standard
+
+;May Day
+[XMP31S2]
+Description=DESC:MP31U2
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, navalwar
+
+;Heck Freezes Over
+[XMP32S8]
+Description=DESC:MP32S8
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard, meatgrind
+
+;Paris Revisited
+[XMP33U4]
+Description=DESC:MP33U4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+;DC Uprising
+[XMP34U4]
+Description=DESC:MP34U4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+;;;;;;;;;;;;;;;;;;;;;;
+;;;MegaWealth Maps
+;;;;;;;;;;;;;;;;;;;;;;
+;Urban Rush
+[XMP06MW]
+Description=DESC:MP06T2
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=megawealth
+
+;Little Big Lake
+[XMP08MW]
+Description=DESC:MP08T2
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=megawealth
+
+;El Dorado
+[XMP14MW]
+Description=DESC:MP14T2
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=megawealth
+
+;The Alamo
+[XMP29MW]
+Description=DESC:MP29U2
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=megawealth
+
+;Heartland
+[XMP05MW]
+Description=DESC:MP05T4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+;Montana DMZ
+[XMP13MW]
+Description=DESC:MP13S4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+;Snow Valley
+[XMP15MW]
+Description=DESC:MP15S4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+;Snowballs Chance
+[XMP16MW]
+Description=DESC:MP16S4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+;Islands in the Stream, alias Hammer and Sickle
+[XMP23MW]
+Description=DESC:MP07T4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+;Malibu Cliffs
+[XMP17MW]
+Description=DESC:MP17T6
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=megawealth
+
+;DEFCON 6
+[XMP25MW]
+Description=DESC:MP25T6
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=megawealth
+
+;Siberian Wastes
+[XMP30MW]
+Description=DESC:MP30S6
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=megawealth
+
+;Arctic Circle
+[XMP22MW]
+Description=DESC:MP22S8
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=megawealth
+
+;A Path Beyond II
+[XMP27MW]
+Description=DESC:MP27T8
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=megawealth
+
+;Heck Freezes Over
+[XMP32MW]
+Description=DESC:MP32S8
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=megawealth
+
+;;;;;;;;;;;;;;;;;;
+;;;Duel Maps
+;;;;;;;;;;;;;;;;;;
+;Canyon Fodder
+[XMP09DU]
+Description=DESC:MP09T3
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=duel
+
+;South Pacific
+[XMP01DU]
+Description=DESC:MP01DU
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=duel
+
+;Heartland
+[XMP05DU]
+Description=DESC:MP05T4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=duel
+
+;Montana DMZ
+[XMP13DU]
+Description=DESC:MP13S4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=duel
+
+;Snow Valley
+[XMP15DU]
+Description=DESC:MP15S4
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=duel
+
+;Cold War
+[XMP18DU]
+Description=DESC:MP18DU
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=duel
+
+;Bonanza
+[XMP24DU]
+Description=DESC:MP24DU
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=duel
+
+;Malibu Cliffs
+[XMP17DU]
+Description=DESC:MP17T6
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=duel
+
+;DEFCON 6
+[XMP25DU]
+Description=DESC:MP25T6
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=duel
+
+;A Path Beyond II
+[XMP27DU]
+Description=DESC:MP27T8
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=duel
+
+;Heck Freezes Over
+[XMP32DU]
+Description=DESC:MP32S8
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=duel
+
+;;;;;;;;;;;;;;;;;;;;;;
+;;;Cooperative Maps;;;
+;;;;;;;;;;;;;;;;;;;;;;
+[C1A01MD]
+Description=DESC:C1M1
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=cooperative
+
+[C1A02MD]
+Description=DESC:C1M2
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=cooperative
+
+[C1A03MD]
+Description=DESC:C1M3
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=cooperative
+
+[C2S01MD]
+Description=DESC:C2M1
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=cooperative
+
+[C2S02MD]
+Description=DESC:C2M2
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=cooperative
+
+[C2S03MD]
+Description=DESC:C2M3
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=cooperative
+
+[C3Y01MD]
+Description=DESC:C3M1
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=cooperative
+
+[C3Y02MD]
+Description=DESC:C3M2
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=cooperative
+
+[C3Y03MD]
+Description=DESC:C3M3
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=cooperative
+
+[C4W01MD]
+Description=DESC:C4M1
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=cooperative
+
+;;;;;;;;;;;;;;;;;;;;;;
+;;;Tournament  Maps;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;Tournament 1
+[XTN01T2]
+Description=NAME:TOURNEY4
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+;Tournament 1 Mega Wealth
+[XTN01MW]
+Description=NAME:TOURNEY4
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=megawealth
+
+;Tournament 2
+[XTN02s4]
+Description=NAME:TOURNEY2
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+;Tournament 2 Mega Wealth
+[XTN02MW]
+Description=NAME:TOURNEY2
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+;;Tournament 3
+;[XTN03T8]
+;Description=NAME:TOURNEY3
+;CD=2
+;MinPlayers=2
+;MaxPlayers=8
+;GameMode=standard
+;;Tournament 3 Mega Wealth
+;[XTN03MW]
+;Description=NAME:TOURNEY3
+;CD=2
+;MinPlayers=2
+;MaxPlayers=8
+;GameMode=megawealth
+;Tournament 4
+[XTN04T2]
+Description=NAME:TOURNEY5
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+;Tournament 4 Mega Wealth
+[XTN04MW]
+Description=NAME:TOURNEY5
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=megawealth
+
+; RTO
+;;;;;;;;;;;;;;;;;;;;;;
+;;; NEW RA2MD MAPS ;;;
+;;;;;;;;;;;;;;;;;;;;;;
+[Arena33Forever]
+Description=NAME:Arena33
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[DeathValleyGirl]
+Description=NAME:ValGirl
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=teamgame
+
+; Pulled for rework and post-YR ship
+;[DinoWars]
+;Description=NAME:DinoWars
+;CD=2
+;MinPlayers=2
+;MaxPlayers=4
+;GameMode=standard
+; Pulled for rework and post-YR ship
+;[DinoZoo]
+;Description=NAME:DinoZoo
+;CD=2
+;MinPlayers=2
+;MaxPlayers=8
+;GameMode=standard
+[DoubleTrouble]
+Description=NAME:2xTrble
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=teamgame
+
+[DryHeat]
+Description=NAME:DryHeat
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, teamgame
+
+[EastVsBest]
+Description=NAME:EastVsBest
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=teamgame
+
+[FourCorners]
+Description=NAME:4Crners
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[IsleOfOades]
+Description=NAME:Oades
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[MonumentValley]
+Description=NAME:MonValley
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+; Pulled for rework and post-YR ship
+;[MoonBase]
+;Description=NAME:MoonBase
+;CD=2
+;MinPlayers=2
+;MaxPlayers=4
+;GameMode=standard
+[OffenseDefense]
+Description=NAME:OffDef
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=teamgame
+
+[OttersRevenge]
+Description=NAME:OttersRevenge
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+;[ReturnToForestFires]
+;Description=NAME:ForFires
+;CD=2
+;MinPlayers=2
+;MaxPlayers=4
+;GameMode=standard
+[SedonaPass]
+Description=NAME:SedonaPass
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+; Pulled for rework and post-YR ship
+;[SouthPoleSlaughter]
+;Description=NAME:SPoleSlug
+;CD=2
+;MinPlayers=2
+;MaxPlayers=4
+;GameMode=standard
+[TopOTheHill]
+Description=NAME:TopOTheHill
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=teamgame
+
+[TourOfEgypt]
+Description=NAME:TourOfEgypt
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=teamgame
+
+[TrailerPark]
+Description=NAME:TrailerPark
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=teamgame
+
+[TurfWar]
+Description=NAME:TurfWar
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=teamgame
+
+;[TestersMap]
+;Description=NAME:TestersMap
+;CD=2
+;MinPlayers=2
+;MaxPlayers=4
+;GameMode=standard
+;;;;;;;;;;;;;;;;;;;;;;
+;;; MoW and EB Maps;;;
+;;;;;;;;;;;;;;;;;;;;;;
+[XAMAZON01]
+Description=NAME:WEEK76
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=teamgame
+
+[XArena]
+Description=NAME:WEEK109
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, teamgame
+
+[XBarrel]
+Description=NAME:WEEK58
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[XBayOPigs]
+Description=NAME:WEEK35
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard, teamgame
+
+[XBermuda]
+Description=NAME:WEEK10
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=teamgame
+
+[XBreak]
+Description=NAME:WEEK55
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[XCarville]
+Description=NAME:WEEK44
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XDeadman]
+Description=NAME:WEEK38
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[XDeath]
+Description=NAME:WEEK80
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[XDisaster]
+Description=NAME:WEEK64
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XDustbowl]
+Description=NAME:WEEK78
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[XEB1]
+Description=NAME:WEEK39
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, teamgame
+
+[XEB2]
+Description=NAME:WEEK30
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XEB3]
+Description=NAME:WEEK26
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[XEB4]
+Description=NAME:WEEK86
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, teamgame
+
+[XEB5]
+Description=NAME:WEEK22
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XGoldSt]
+Description=NAME:WEEK16
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[XGrinder]
+Description=NAME:WEEK69
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[XHailMary]
+Description=NAME:WEEK73
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[XHills]
+Description=NAME:WEEK96
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XInvasion]
+Description=NAME:WEEK47
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XKaliforn]
+Description=NAME:WEEK41
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[XKiller]
+Description=NAME:WEEK59
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[XLostlake]
+Description=NAME:WEEK6
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, teamgame
+
+[XNewHghts]
+Description=NAME:WEEK118
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[XNoRest]
+Description=NAME:WEEK74
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XOceansid]
+Description=NAME:WEEK8
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XPacific]
+Description=NAME:WEEK9
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XPotomac]
+Description=NAME:WEEK2
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=teamgame
+
+[XPowdrKeg]
+Description=NAME:WEEK83
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[XRockets]
+Description=NAME:WEEK56
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Xroulette]
+Description=NAME:WEEK4
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[XRound]
+Description=NAME:WEEK85
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XSeaofIso]
+Description=NAME:WEEK7
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=teamgame
+
+[XShrapnel]
+Description=NAME:WEEK27
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+;[XSkyscrpr]
+;Description=NAME:WEEK82
+;CD=2
+;MinPlayers=2
+;MaxPlayers=4
+;GameMode=standard
+[XTanyas]
+Description=NAME:WEEK49
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, teamgame
+
+[XTerritor]
+Description=NAME:WEEK60
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=teamgame
+
+[XTOWER]
+Description=NAME:WEEK91
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XTsunami]
+Description=NAME:WEEK14
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XValley]
+Description=NAME:WEEK15
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[XXmas]
+Description=NAME:WEEK94
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[XYuriPlot]
+Description=NAME:WEEK43
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+;Austin, TX
+[AustinTX]
+Description=NAME:Austin
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=meatgrind, teamgame
+
+;Triple Crossed
+[TripleCrossed]
+Description=NAME:Triple
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=meatgrind, teamgame
+
+;No Wimps
+[NoWimps]
+Description=NAME:Wimps
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=meatgrind, standard
+
+;Mount Rush More
+[MountMoras]
+Description=NAME:MntRush
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=meatgrind, teamgame
+
+;DEMO MAP
+;[Demomap]
+;Description=DESC:E31
+;CD=2
+;MinPlayers=2
+;MaxPlayers=4
+;GameMode=meatgrind, standard
+;Sahara Mirage
+[SaharaMi]
+Description=NAME:SaharaMi
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+;Near Ore Far
+[NearOreF]
+Description=NAME:NearOreF
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+;Ground Zero
+[GroundZe]
+Description=NAME:GroundZe
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+;Blood Feud
+[BldFeud]
+Description=NAME:BldFeud
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+;Bridging the Gap
+[BridgeGap]
+Description=NAME:BridgeGap
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+;Dune Patrol
+[DunePatr]
+Description=NAME:DunePatr
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+;Let There Be Fight
+[Fight]
+Description=NAME:Fight
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+; Pulled for rework and post-YR ship
+;Escalation
+;[Escalation]
+;Description=NAME:Escalation
+;CD=2
+;MinPlayers=2
+;MaxPlayers=4
+;GameMode=standard
+;Hidden Valley
+[HidVally]
+Description=NAME:HidVally
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+;Manhattan Mayhem
+[Manhatta]
+Description=NAME:Manhatta
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+;Rush Hour
+[RushHr]
+Description=NAME:RushHr
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+;RTO
+[DeathValleyGirlmw]
+Description=NAME:ValGirl
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+[DryHeatmw]
+Description=NAME:DryHeat
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+[FourCornersmw]
+Description=NAME:4Crners
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+[Groundzemw]
+Description=NAME:GroundZe
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+[MonumentValleymw]
+Description=NAME:MonValley
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+[SaharaMimw]
+Description=NAME:SaharaMi
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+[SedonaPassmw]
+Description=NAME:SedonaPass
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+[XDustbowlmw]
+Description=NAME:WEEK78
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+[XEB1mw]
+Description=NAME:WEEK39
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+[XPacificmw]
+Description=NAME:WEEK9
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+[XTowermw]
+Description=NAME:WEEK91
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+[XValleymw]
+Description=NAME:WEEK15
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=megawealth
+
+[HillBtwn]
+Description=NAME:Between
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+;Face Down
+[FaceDown]
+Description=Name:FaceDwn
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+;Little Piece of Dune
+[PcOfDune]
+Description=Name:LittlePi
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+;Twin Peaks
+[2Peaks]
+Description=Name:2Peaks
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+;Downtown, Cityville
+[downtown]
+Description=Name:Cityville
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+;Frostbite
+[Frstbite]
+Description=Name:Frostbite
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical180]
+Description=DESC:?????
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical181]
+Description=DESC:gd
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind, navalwar, nukewar, airwar, megawealth, duel, cooperative, teamgame
+
+[Unoffical182]
+Description=DESC:Abeloya (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical183]
+Description=DESC:Agattu Island (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical184]
+Description=DESC:Akhiok Island (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical185]
+Description=DESC:American Dream (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical186]
+Description=DESC:Double Apex (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical187]
+Description=DESC:A Path Beyond II HD (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical188]
+Description=DESC:Arizona Memorial (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical189]
+Description=DESC:Arctic Twist (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical190]
+Description=DESC:Arid Mitosis (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical191]
+Description=DESC:Arid Superiority (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical192]
+Description=DESC:Baphomet (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical193]
+Description=DESC:Barren Wasteland (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical194]
+Description=DESC:BAT-tle (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical195]
+Description=DESC:Batchawana Bay (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical196]
+Description=DESC:CrossHair (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical197]
+Description=DESC:The Great Belt (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical198]
+Description=DESC:New New York (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical199]
+Description=DESC:Big Town USA (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical200]
+Description=DESC:Black's Big Battle (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical201]
+Description=DESC:Bow-Tie Canyon (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical202]
+Description=DESC:Cabana Republic (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical203]
+Description=DESC:Tournament Canal (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical204]
+Description=DESC:Canals of Carnage (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical205]
+Description=DESC:test
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical206]
+Description=DESC:Central Elevation (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical207]
+Description=DESC:Central Quad (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical208]
+Description=DESC:Ceram Sea (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical209]
+Description=DESC:Chankliut Island (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical210]
+Description=DESC:Central Channel (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical211]
+Description=DESC:Chilled To The Bone (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical212]
+Description=DESC:Civic Violence (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical213]
+Description=DESC:Clover Conflict (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical214]
+Description=DESC:Coburg Island (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical215]
+Description=DESC:Kickin' Company (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical216]
+Description=DESC:Coastal Influence(2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical217]
+Description=DESC:Cranberry Island (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical218]
+Description=DESC:Cubed Combat (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical219]
+Description=DESC:Dahlac Marine (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical220]
+Description=DESC:Distric of Colombia (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical221]
+Description=DESC:Dead Six (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical222]
+Description=DESC:Siberian Deluge (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical223]
+Description=DESC:?????ddddddddddddddddddddddddddd
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical224]
+Description=DESC:Mount Mirage (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical225]
+Description=DESC:Desolate Metropolis (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical226]
+Description=DESC:Deus EX Machina 2-8
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical227]
+Description=DESC:Divide and Conquer (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical228]
+Description=DESC:The Great Divide (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical229]
+Description=DESC:Dolphin Party (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical230]
+Description=DESC:Dual Duel (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical231]
+Description=DESC:Tournament Dune (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical232]
+Description=DESC:Dusty Canyon (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical233]
+Description=DESC:Dusty Avalanche (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical234]
+Description=DESC:Dusty Bones (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical235]
+Description=DESC:Eagle Island (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical236]
+Description=DESC:Earth (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical237]
+Description=DESC:Easter Island (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical238]
+Description=DESC:Mirror's Edge (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical239]
+Description=DESC:Territory Encroachment (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical240]
+Description=DESC:Exhausted Isle (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical241]
+Description=DESC:Evil Eyes (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical242]
+Description=DESC:Two Faced (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical243]
+Description=DESC:Factory Canal (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical244]
+Description=DESC:Farm Land  (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical245]
+Description=DESC:Forsaken Waste (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical246]
+Description=DESC:Octennial Frost (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical247]
+Description=DESC:Frosted Reft (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical248]
+Description=DESC:Frosty  Canyon (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical249]
+Description=DESC:Gateway Arch (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical250]
+Description=DESC:Phantom Island (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical251]
+Description=DESC:Keep Off The Grass (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical252]
+Description=DESC:Reaper Enclave (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical253]
+Description=DESC:Grinder (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical254]
+Description=DESC:Halo Destruction (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical255]
+Description=DESC:Hamlet Mirror (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical256]
+Description=DESC:Harvest Problems (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical257]
+Description=DESC:Capital Coup (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical258]
+Description=DESC:Haven Conflict (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical259]
+Description=DESC:Hazard Island (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical260]
+Description=DESC:Heck Freezes Over HD (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical261]
+Description=DESC:Highway to Hell (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical262]
+Description=DESC:Heptagon Havoc (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical263]
+Description=DESC:hesoishesoishesoishesois
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical264]
+Description=DESC:Hex Bay (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical265]
+Description=DESC:Hostile Iceberg (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical266]
+Description=DESC:Bay Hostility (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical267]
+Description=DESC:Hour Glass (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical268]
+Description=DESC:Ice Age (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical269]
+Description=DESC:Icy Cellar (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical270]
+Description=DESC:Icy Pinch (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical271]
+Description=DESC:Infinity Isle (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical272]
+Description=DESC:Inland Sea (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical273]
+Description=DESC:Isabella Lake (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical274]
+Description=DESC:Bay War (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical275]
+Description=DESC:Shivering Isles (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical276]
+Description=DESC:Ivory Wastelands (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical277]
+Description=DESC:Jack-O-War (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical278]
+Description=DESC:Jason (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical279]
+Description=DESC:Jungle Basin (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical280]
+Description=DESC:Kongsoya (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical281]
+Description=DESC:Laced River (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical282]
+Description=DESC:St. Lawrence Island (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical283]
+Description=DESC:For Liberty (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical284]
+Description=DESC:Liberty Island (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical285]
+Description=DESC:Little Mermaid (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical286]
+Description=DESC:Lost Valley (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical287]
+Description=DESC:Magmageddon (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical288]
+Description=DESC:Mantinicus Island (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical289]
+Description=DESC:Fort Urban Square (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical290]
+Description=DESC:Marshall Island (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical291]
+Description=DESC:Marooned ll (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical292]
+Description=DESC:Mechanical Island (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical293]
+Description=DESC:Sebkhel el Melah (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical294]
+Description=DESC:Middle Mayhem (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical295]
+Description=DESC:?????
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical296]
+Description=DESC:Midnight Splat (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical297]
+Description=DESC:Midway Rapids (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical298]
+Description=DESC:Mirage Oasis (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical299]
+Description=DESC:Mirage Shock Sector (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical300]
+Description=DESC:Harima-nada (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical301]
+Description=DESC:No Mans Land (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical302]
+Description=DESC:Nora Island (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical303]
+Description=DESC:Nova Scotia (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical304]
+Description=DESC:Isla Nublar (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical305]
+Description=DESC:Polar Oblong (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical306]
+Description=DESC:Oppidan Cay (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical307]
+Description=DESC:Ore Pit (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical308]
+Description=DESC:Pacific Rim (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical309]
+Description=DESC:
+CD=2
+MinPlayers=
+MaxPlayers=
+GameMode=
+
+[Unoffical310]
+Description=DESC:The Pentagon (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical311]
+Description=DESC:The Pinch (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical312]
+Description=DESC:In The Pipe (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical313]
+Description=DESC:Island Plateau (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical314]
+Description=DESC:Pond Skirmish (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical315]
+Description=DESC:Port Royal (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical316]
+Description=DESC:Puzzling Peninsula (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical317]
+Description=DESC:Pyroclasm (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical318]
+Description=DESC:The Pearl-Qatar (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical319]
+Description=DESC:Ragged Island (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical320]
+Description=DESC:Rapid Trio (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical321]
+Description=DESC:All World Is Enemy (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical322]
+Description=DESC:Alternative War (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical323]
+Description=DESC:American Pride (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical324]
+Description=DESC:Arctica (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, navalwar, nukewar, airwar
+
+[Unoffical325]
+Description=DESC:Black Gold (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, navalwar, nukewar, airwar, megawealth, teamgame
+
+[Unoffical326]
+Description=DESC:City Of Sand (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical327]
+Description=DESC:Cold War (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical328]
+Description=DESC:Collective Farms (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical329]
+Description=DESC:Dead City (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical330]
+Description=DESC:Desert Mirage (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical331]
+Description=DESC:Desert Razing (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical332]
+Description=DESC:Desert Storm (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical333]
+Description=DESC:Desert Warfare (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical334]
+Description=DESC:Dried Feed (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical335]
+Description=DESC:El Dorado City (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical336]
+Description=DESC:Japan Forest Fears (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical337]
+Description=DESC:Hidden City (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, navalwar, nukewar, airwar, duel
+
+[Unoffical338]
+Description=DESC:In One Breath (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, navalwar, nukewar, airwar, duel
+
+[Unoffical339]
+Description=DESC:Industrial Warriors (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical340]
+Description=DESC:Islands Of Abundance (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard, meatgrind, navalwar, nukewar, airwar, duel, teamgame
+
+[Unoffical341]
+Description=DESC:Jungle Arena (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical342]
+Description=DESC:Jungle Trouble (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical343]
+Description=DESC:Just Enough Battle (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical344]
+Description=DESC:Lost Civilization (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical345]
+Description=DESC:Megapolis Battle (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical346]
+Description=DESC:Place in the Sun (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical347]
+Description=DESC:Resort Island (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical348]
+Description=DESC:Rock and Roll (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical349]
+Description=DESC:Sahara (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical350]
+Description=DESC:Triple Trouble (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard, meatgrind, nukewar, airwar, duel, teamgame
+
+[Unoffical351]
+Description=DESC:Urban Attack (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical352]
+Description=DESC:War and Peace (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, nukewar, airwar, duel
+
+[Unoffical353]
+Description=DESC:Warzone (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard, meatgrind, navalwar, nukewar, airwar, duel
+
+[Unoffical354]
+Description=DESC:Requiem (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical355]
+Description=DESC:Tournament Ridge
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical356]
+Description=DESC:Ridge Carnage (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical357]
+Description=DESC:Tournament Rift (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical358]
+Description=DESC:Ring Of Death (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical359]
+Description=DESC:Road Rage (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical360]
+Description=DESC:Rocky Surf (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical361]
+Description=DESC:Blistering Sands (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical362]
+Description=DESC:Santorini Island (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical363]
+Description=DESC:Sextuplet Bluff (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical364]
+Description=DESC:Situation Critical (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical365]
+Description=DESC:Sleepy Valley (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical366]
+Description=DESC:Final Twist (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical367]
+Description=DESC:Fair And Square (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical368]
+Description=DESC:Squid Reef (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical369]
+Description=DESC:Stadium (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical370]
+Description=DESC:Star Reef (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical371]
+Description=DESC:Straight Shot (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical372]
+Description=DESC:Industrial Strength (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical373]
+Description=DESC:Swans Island (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical374]
+Description=DESC:Ternary Plantation (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical375]
+Description=DESC:Terrortial Imperative HD (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical376]
+Description=DESC:Tests map
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical377]
+Description=DESC:HomerLand 3.0
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard, meatgrind, navalwar, nukewar, airwar, megawealth, duel, cooperative, teamgame
+
+[Unoffical378]
+Description=DESC:In The Seam (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical379]
+Description=DESC:To The ARC (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical380]
+Description=DESC:Tokashiki (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical381]
+Description=DESC:Trailer Park HD (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical382]
+Description=DESC:Ore Pit Triad (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical383]
+Description=DESC:Trinity (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical384]
+Description=DESC:Blizzard Triplication (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical385]
+Description=DESC:Tundra Trouble (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical386]
+Description=DESC:Turtle Village (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical387]
+Description=DESC:Twin Bridge (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical388]
+Description=DESC:Two Ocean Lake (2-3)
+CD=2
+MinPlayers=2
+MaxPlayers=3
+GameMode=standard
+
+[Unoffical389]
+Description=DESC:Tyrrhenian Sea (2-7)
+CD=2
+MinPlayers=2
+MaxPlayers=7
+GameMode=standard
+
+[Unoffical390]
+Description=DESC:Battle Royal (2-8)
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard
+
+[Unoffical391]
+Description=DESC:Urban Pipeline (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical392]
+Description=DESC:Village Circuit (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical393]
+Description=DESC:Virgin Moscow (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical394]
+Description=DESC:Volcano (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical395]
+Description=DESC:Sessions Pass (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical396]
+Description=DESC:Withered Fracture (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical397]
+Description=DESC:Lake of the Woods (2-5)
+CD=2
+MinPlayers=2
+MaxPlayers=5
+GameMode=standard
+
+[Unoffical398]
+Description=DESC:Woody Island (2)
+CD=2
+MinPlayers=2
+MaxPlayers=2
+GameMode=standard
+
+[Unoffical399]
+Description=DESC:Wrecktropolis (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical400]
+Description=DESC:Yin-Yang (2-4)
+CD=2
+MinPlayers=2
+MaxPlayers=4
+GameMode=standard
+
+[Unoffical401]
+Description=DESC:Sub-Zero (2-6)
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical402]
+Description=DESC:Road to Rim
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[Unoffical403]
+Description=DESC:American Dream (2-8) 3.0
+CD=2
+MinPlayers=2
+MaxPlayers=6
+GameMode=standard
+
+[blitzkriegresistance]
+Description=DESC:blitzkriegresistance
+CD=2
+MinPlayers=2
+MaxPlayers=8
+GameMode=standard,teamgame
